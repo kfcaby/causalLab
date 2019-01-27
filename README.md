@@ -1,1 +1,17 @@
-# causalLab
+
+Army 17, Air Force 14
+=====================
+
+Can we predict the number of yards Army gained each play on offense?
+====================================================================
+
+This code performs analysis of play-by-play data from the Army - Air Force 2018 football game. Intended to demonstrate regression models in introductory statistics courses.
+
+The file "PBP - 2018 - Week 10.csv" contains play-by-play data for every college football game up to Week 10. The data is available from user BlueSCar at <https://www.reddit.com/r/CFBAnalysis/comments/6wz5ww/2017_play_by_play_data/>.
+
+Load libraries and data
+-----------------------
+
+``` r
+library(tidyverse)
+```
