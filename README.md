@@ -4,7 +4,7 @@ Causal Inference in Introductory Statistics Courses
 
 Below is a causal inference-based student activity using the forced expiratory volume (FEV) dataset originally published in Rosner (1995). Previously, Khan (2005) demonstrated how this data could be used in introductory courses to illustrate traditional statistical concepts. Here, we demonstrate how principles of casual inference can also be easily explained to introductory students using the same data. A student handout and instructor resources related to this activity are available on this site.
 
-Also, thank you to my colleagues James Pleuss, Dusty Turner, Bryan Adams, Nicholas Clark, and Krista Watts for their assistance.
+Thank you to my colleagues James Pleuss, Dusty Turner, Bryan Adams, Nicholas Clark, and Krista Watts for their assistance.
 
 Background
 ----------
