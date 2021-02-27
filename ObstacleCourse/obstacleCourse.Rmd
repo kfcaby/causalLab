@@ -77,11 +77,11 @@ cadets %>%
 
 \vspace{1in}
 
-7. A shorter cadet argues Figure 1 shows evidence the IOCT is unfair based on height.  Do you agree or disagree? Explain.
+8. A shorter cadet argues Figure 1 shows evidence the IOCT is unfair based on height.  Do you agree or disagree? Explain.
 
 \vspace{1in}
 
-8. Briefly explain the difference between these two conclusions.
+9. Briefly explain the difference between these two conclusions.
 
 * *Height is associated with faster IOCT times.*
 
@@ -89,15 +89,15 @@ cadets %>%
 
 \vspace{1in}
 
-9.  Based on the analysis presented thus far, is it possible to distinguish between these two explanations? Explain.
+10.  Based on the analysis presented thus far, is it possible to distinguish between these two explanations? Explain.
 
 \vspace{1in}
 
-10. Draw a causal diagram depicting the relationship between height, IOCT time, and sex.  Explain your decisions to include/exclude arrows in the diagram.
+11. Draw a causal diagram depicting the relationship between height, IOCT time, and sex.  Explain your decisions to include/exclude arrows in the diagram.
 
 \vspace{1in}
 
-11. Based on your diagram, identify the confounding variable.
+12. Based on your diagram, identify the confounding variable.
 
 \vspace{0.5in}
 
@@ -115,7 +115,7 @@ cadets %>%
   labs(y = "", x = "")
 ```
 
-12. Based on Figure 2, is the estimate of the effect of height on IOCT time in Table 1 confounded by sex? If so, is the effect of height smaller or larger than that reported in Table 1? Explain.
+13. Based on Figure 2, is the estimate of the effect of height on IOCT time in Table 1 confounded by sex? If so, is the effect of height smaller or larger than that reported in Table 1? Explain.
 
 \vspace{1in}
 
@@ -146,17 +146,17 @@ cadets %>%
   kable(digits = 2, caption = "Regression results for male cadets.")
 ```
 
-13. Based on Figure 3 and Tables 2 and 3, does it appear there is an association between IOCT time and height within levels of sex? Explain.
+14. Based on Figure 3 and Tables 2 and 3, does it appear there is an association between IOCT time and height within levels of sex? Explain.
 
 \vspace{1in}
 
 \newpage
 
-14. In your opinion, is there much evidence that height is an advantage on the IOCT (in other words, is height the *cause* of better IOCT times)?  Explain.
+15. In your opinion, is there much evidence that height is an advantage on the IOCT (in other words, is height the *cause* of better IOCT times)?  Explain.
 
 \vspace{2in}
 
-15.  Briefly discuss two ways you could improve this study to better assess whether there is a height advantage.
+16.  Briefly discuss two ways you could improve this study to better assess whether there is a height advantage.
 
 \vspace{1in}
 
