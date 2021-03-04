@@ -162,7 +162,7 @@ Figure 3 depicts the association between IOCT time and height by sex. Tables 2 a
 ```{r,fig.cap="Indoor Obstacle Course Test (IOCT) times versus height by sex (n = 384).", fig.height=3}
 cadets %>%
   filter(IOCT_Time < 400) %>%
-  ggplot(aes(x = IOCT_Time, y = height, color = sex)) +
+  ggplot(aes(y = IOCT_Time, x = height, color = sex)) +
   geom_point() +
   geom_smooth(method = "lm", se = FALSE) +
   labs(y = "IOCT time (sec)", x = "height (in)")
